@@ -1,4 +1,4 @@
-# Show And Tell Keras Implementation
+# Show And Tell Keras Implementation OK
 Keras implementation of Neural Image Caption Generator(NIC) 
 
 **Related paper** : [Vinyals, Oriol, et al. "Show and tell: A neural image caption generator." computer vision and pattern recognition (2015): 3156-3164.](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)
